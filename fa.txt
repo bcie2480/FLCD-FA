@@ -1,0 +1,7 @@
+q1 q2 q3
+a b
+q1
+q3 q2
+q1 q2 a
+q2 q3 b
+q1 q3 a
